@@ -92,7 +92,6 @@ class Table extends Component {
 
         return (
             <div className="table">
-                <h2>This will be the table</h2>
                 <table>
                     <tbody>
                         <tr>
